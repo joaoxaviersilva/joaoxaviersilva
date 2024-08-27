@@ -4,7 +4,7 @@
 <img height="40"> <img src="https://i.pinimg.com/originals/f1/0d/cc/f10dccfc82f6f3aa7388b2177729bee7.gif" width="150" alt="Shadow">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!!;Me+chamo+João+Xavier+e+tenho+15+anos;Bem-vindo(a)+ao+meu+perfil!&b&font=Poppins:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!!;Me+chamo+João+Xavier+e+tenho+16+anos;Bem-vindo(a)+ao+meu+perfil!&b&font=Poppins:%29)](https://git.io/typing-svg)
 
 <div align="center">   
    <img src="https://github-profile-trophy.vercel.app/?username=joaoxaviersilva&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
